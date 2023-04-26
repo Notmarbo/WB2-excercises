@@ -1,3 +1,5 @@
+"use strict";
+
 var seats = 15;
 var cost = 250;
 var people = 38;

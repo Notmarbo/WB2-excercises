@@ -1,4 +1,6 @@
-var tax = .23;
+"use strict";
+
+var taxRate = .23;
 var incomeMonthly = 10000.60;
-var taxed = tax * incomeMonthly;
+var taxed = taxRate * incomeMonthly;
 console.log(taxed.toFixed(2));

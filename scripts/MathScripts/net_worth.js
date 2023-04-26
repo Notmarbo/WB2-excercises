@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 var weeklyPay = 1000;
 var months = 12;

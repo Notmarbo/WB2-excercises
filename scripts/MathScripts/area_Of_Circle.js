@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 var pi = 3.141592653589793;
 var radius = 10;

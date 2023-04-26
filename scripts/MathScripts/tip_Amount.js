@@ -1,3 +1,4 @@
+"use strict";
 
 var foodCost = 79.25;
 var tip = 6.54;

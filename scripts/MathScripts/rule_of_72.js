@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
  var startingbalance = 5000;
  var constant = 72;
  var intrestRate = 4;

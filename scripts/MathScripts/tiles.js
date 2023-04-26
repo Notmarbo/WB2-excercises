@@ -1,3 +1,5 @@
+"use strict";
+
 var length = 100;
 var width = 150;
 var box = 12;

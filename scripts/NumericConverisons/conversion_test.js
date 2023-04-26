@@ -2,26 +2,32 @@
 // Author: Msrco Sanchez
 "use strict"
 
-// var a = parseInt("101.1");
-// var b = parseInt("55");
-// var c = parseInt("402 Stevens");
-// var d = parseInt("Number 5");
-// console.log(a, b, c, d);
+var a = ("101.1");
+var b = ("55");
+var c = ("402 Stevens");
+var d = ("Number 5");
+console.log(a, b, c, d);
 
-// var a1 = parseFloat("101.1");
-// var b1 = parseFloat("55");
-// var c1 = parseFloat("402 Stevens");
-// var d1 = parseFloat("Number 5");
-// console.log(a1, b1, c1, d1);
+var aInt = parseInt(a);
+var bInt = parseInt(b);
+var cInt = parseInt(c);
+var dInt = parseInt(d);
+console.log(aInt, bInt, cInt, dInt);
 
-// var a2 = Number("101.1");
-// var b2 = Number("55");
-// var c2 = Number("402 Stevens");
-// var d2 = Number("Number 5");
-// console.log(a2, b2, c2, d2);
+var aFloat = parseFloat(a);
+var bFloat = parseFloat(b);
+var cFloat = parseFloat(c);
+var dFloat = parseFloat(d);
+console.log(aFloat, bFloat, cFloat, dFloat);
 
-var a = +("101.1");
-var b = +("55");
-var c = +("402 Stevens");
-var d = +("Number 5");
+var aNum = Number(a);
+var bNum = Number(b);
+var cNum = Number(c);
+var dNum = Number(d);
+console.log(aNum, bNum, cNum, dNum);
 
+var aUninary = +(a);
+var bUninary = +(b);
+var cUninary = +(c);
+var dUninary = +(d);
+console.log(aUninary, bUninary, cUninary,dUninary);

@@ -1,3 +1,5 @@
-var c = 10;
-var f = 32 + (c * 9/5);
-console.log(f);
+"use strict";
+
+var celsius = 10;
+var fahrenheit = 32 + (celsius * 9/5);
+console.log(fahrenheit);

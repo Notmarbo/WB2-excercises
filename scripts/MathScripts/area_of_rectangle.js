@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 //Triangle
 var half = 0.5;
 var base =  10;
